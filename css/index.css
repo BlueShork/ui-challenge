@@ -45,7 +45,7 @@ nav > ul > li{
     color: grey;
     margin-top: 25px;
     box-shadow: 0px 8px 24px 0px rgba(0,0,0,0.15);
-    width: 350px !important;
+    width: 300px !important;
 }
 #header_info > #submit{
     background: #334AC2;
@@ -486,4 +486,42 @@ nav > ul > li{
 #footer > div > div > div > ul > li{
     list-style-type: none;
     padding: 5px 0 5px 0px;
+}
+
+
+
+
+
+@media (min-width: 576px) {
+    .informations{
+        max-width: 1150px;
+        min-width: 550px;
+   }
+   .informations > div > #tasks{
+       height: 340px;
+   }
+   #feedback_row{
+        max-width: 1150px;
+        min-width: 550px;
+   }
+   #feedback_row > div > #tasks{
+
+   }
+}
+
+@media (min-width: 768px) {
+   .informations{
+        max-width: 1150px;
+        min-width: 650px;
+   }
+   .informations > div > #tasks{
+       height: 280px;
+   }
+   #feedback_row{
+        max-width: 1150px;
+        min-width: 750px;
+    }
+    #feedback_row > div > #tasks{
+
+    }
 }
