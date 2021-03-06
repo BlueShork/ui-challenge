@@ -5,4 +5,9 @@
 ![alt text](https://github.com/BlueShork/ui-challenge/blob/master/Desktop_-_1_11.png)
 
 # Demo reproduced
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/BlueShork/ui-challenge/blob/master/video.mp4)
+
+https://user-images.githubusercontent.com/29672253/110219394-2801ec00-7ebf-11eb-8b70-8a4026a7c14f.mp4
+
+
+https://user-images.githubusercontent.com/29672253/110219397-2afcdc80-7ebf-11eb-85b8-f0f786e77ca6.mp4
+
